@@ -45,6 +45,17 @@ Fyrir hvern notendahóp skal skrá:
 
 ## Persona fyrir kjörinn notendahóp
 <!--
+Persóna getur komið í stað raunverulegs notendafulltrúa þegar hann er 
+ekki tiltækur. Þá getur BA hugsað sér slíkan notanda við að framkvæma verk 
+eða velja, og þannig búið til upphafspunkt fyrir kröfur sem síðar eru sannreyndar 
+með notendum.
+
+Upplýsingar um persónu fyrir viðskiptavin geta innihaldið félags- og 
+lýðfræðilega eiginleika, hegðun, óskir og pirrandi þætti. 
+Mikilvægt er að tryggja að persónur séu raunverulega fulltrúar viðkomandi 
+notendahóps, byggt á markaðs-, lýðfræðilegum og þjóðfræðilegum rannsóknum
+-->
+<!--
 Dæmi bls. 107
 Fred, 41, has been a chemist at Contoso Pharmaceuticals since he received his Ph.D.
 14 years ago. He doesn’t have much patience with computers. Fred usually works
@@ -59,10 +70,7 @@ synthesize about 20 new proprietary chemicals to go into the stockroom. Fred wan
 a report of his chemical usage for the previous month to be generated automatically
 and sent to him by email so that he can monitor his chemical exposure.
 --> 
-- **Nafn (fræðilegt):**
+- **Nafn:**
+- **Notendahópur:**
 - **Starf/hlutverk:**
-- **Markmið:**  
-- **Verkefni og hegðun:**  
-- **Tæknilegt umhverfi:**  
-- **Sársaukapunktar:**  
-- **Áhrif á kröfur:**  
+- **Lýsing:**
