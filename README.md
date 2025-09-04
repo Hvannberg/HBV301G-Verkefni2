@@ -1,5 +1,8 @@
 # Verkefni 2 – Hagsmunaaðilar, Persona og Árekstrar
 
+Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
+fyrir verkefni 2 
+
 Þessi mappa inniheldur efnið sem beðið er um í verkefninu.
 
 - **STAKEHOLDERS.md:** Flokkun hagsmunaaðila (utan/innan), viðskiptavinir (ekki notendur), notendahópar (4 stk) og persona.
