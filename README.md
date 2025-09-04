@@ -1,4 +1,4 @@
-# Verkefni 2 – Hagsmunaaðilar, Persona og Árekstrar
+# Verkefni 2 – Hagsmunaaðilar, Persónur og Árekstrar
 
 Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
 fyrir verkefni 2 
