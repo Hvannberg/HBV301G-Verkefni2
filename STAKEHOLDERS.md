@@ -24,22 +24,22 @@ Fyrir hvern notendahóp skal skrá:
 ## Notendahópar
 
 ### 1. [Heiti hóps]
-- **Staða:** [ ] Kjörinn  [ ] Óhagstæður  [ ] Ómerktur  [ ] Óbeinn  
+- **Staða:** [ ] Kjörinn  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** [Ferlar, hlutverk, markmið]
 
 ### 2. [Heiti hóps]
-- **Staða:** [ ] Kjörinn  [ ] Óhagstæður  [ ] Ómerktur  [ ] Óbeinn  
+- **Staða:** [ ] Kjörinn  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** …
 
 ### 3. [Heiti hóps]
-- **Staða:** [ ] Kjörinn  [ ] Óhagstæður  [ ] Ómerktur  [ ] Óbeinn  
+- **Staða:** [ ] Kjörinn  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** …
 
 ### 4. [Heiti hóps]
-- **Staða:** [ ] Kjörinn  [ ] Óhagstæður  [ ] Ómerktur  [ ] Óbeinn  
+- **Staða:** [ ] Kjörinn  [ ] Óæskilegir  [ ] Aðrir [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** …
 
