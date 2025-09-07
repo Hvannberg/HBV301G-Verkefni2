@@ -24,26 +24,26 @@ Fyrir hvern notendahóp skal skrá:
 ## Notendahópar
 
 ### 1. [Heiti hóps]
-- **Staða:** [ ] Kjörinn  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Staða:** [ ] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** [Ferlar, hlutverk, markmið]
 
 ### 2. [Heiti hóps]
-- **Staða:** [ ] Kjörinn  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** …
 
 ### 3. [Heiti hóps]
-- **Staða:** [ ] Kjörinn  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** …
 
 ### 4. [Heiti hóps]
-- **Staða:** [ ] Kjörinn  [ ] Óæskilegir  [ ] Aðrir [ ] Óbeinn  
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** …
 
-## Persona fyrir kjörinn notendahóp
+## Persona fyrir Forgangs  notendahóp
 <!--
 Persóna getur komið í stað raunverulegs notendafulltrúa þegar hann er 
 ekki tiltækur. Þá getur BA hugsað sér slíkan notanda við að framkvæma verk 
